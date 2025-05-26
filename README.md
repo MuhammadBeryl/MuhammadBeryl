@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently Study on **SMK TELKOM**
-🌱 I’m currently learning **Frontend** and **Backend**
+- 🔭 I’m currently Study on **SMK TELKOM**
+- 🌱 I’m currently learning **Frontend** and **Backend**
 
