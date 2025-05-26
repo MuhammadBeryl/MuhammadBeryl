@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Muhammad Beryl Maulana Ocean 👋
+
+![Muhammad Beryl](img/banner%20yt.jpg)
 
 <!--
 **MuhammadBeryl/MuhammadBeryl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently Study on **SMK TELKOM**
+🌱 I’m currently learning **Frontend** and **Backend**
+
